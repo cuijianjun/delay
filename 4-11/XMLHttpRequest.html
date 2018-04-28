@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  window.onload = function () {
+    let obtn = document.getElementById('bt1');
+    obtn.onclick = function(){
+      //1. 创建对象
+      let xhr = new XMLHttpRequest()
+      // 2. 链接
+      xhr.open('GET','1.txt',true)
+      //3. 发送
+      xhr.send()
+      //4.接收
+      xhr.onreadystatechange = function(){
+          if(xhr.readyState == 4){
+            if(xhr.status>=200 && xhr.status <=300 || xhr.status == '304'){
+
+            }
+            console.log('完成');
+          }
+      }
+    }
+  }
+</script>
+<input type="button" value="发送" id="bt1">
+</body>
+</html>
