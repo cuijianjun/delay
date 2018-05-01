@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/4-11/1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-11/XMLHttpRequest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-11/表单.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/my_seajs/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/my_seajs/mod1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/my_seajs/mod2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/my_seajs/mod3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/my_seajs/my_sea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/自己写个promise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-27/自己写个promise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/server2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/ws/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/ws/mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-28/ws/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-11/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-11/笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-11/面向对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-11/面向对象.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,10 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="自己写个promise2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4-27/自己写个promise2.html">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-28/ws/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-519" />
+            <state relative-caret-position="300">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-28/ws/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4-28/ws/mysql.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -68,6 +81,13 @@
         <option value="$PROJECT_DIR$/4-27/my_seajs/mod1.js" />
         <option value="$PROJECT_DIR$/4-27/my_seajs/mod2.js" />
         <option value="$PROJECT_DIR$/4-27/my_seajs/my_sea.js" />
+        <option value="$PROJECT_DIR$/4-28/server.js" />
+        <option value="$PROJECT_DIR$/4-28/1.txt" />
+        <option value="$PROJECT_DIR$/4-28/fs.js" />
+        <option value="$PROJECT_DIR$/4-28/server2.js" />
+        <option value="$PROJECT_DIR$/4-28/ws/server.js" />
+        <option value="$PROJECT_DIR$/4-28/ws/1.html" />
+        <option value="$PROJECT_DIR$/4-28/ws/mysql.js" />
       </list>
     </option>
   </component>
@@ -79,6 +99,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/4-11/node_modules" />
+    <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
@@ -100,7 +121,13 @@
             <path>
               <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="4-27" type="462c0819:PsiDirectoryNode" />
+              <item name="4-28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
+              <item name="4-28" type="462c0819:PsiDirectoryNode" />
+              <item name="ws" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +157,7 @@
       <recent name="$PROJECT_DIR$/4-27" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4-28" />
       <recent name="$PROJECT_DIR$/4-27" />
       <recent name="$PROJECT_DIR$/4-27/my_seajs" />
       <recent name="$PROJECT_DIR$" />
@@ -169,12 +197,12 @@
       <workItem from="1524673863745" duration="283000" />
       <workItem from="1524674160533" duration="1071000" />
       <workItem from="1524812547236" duration="32000" />
-      <workItem from="1524812844516" duration="8645000" />
+      <workItem from="1524812844516" duration="13797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12171000" />
+    <option name="totallyTimeSpent" value="17323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -307,9 +335,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/ws/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/server2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4-27/自己写个promise2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/ws/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/ws/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-28/ws/mysql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
       </provider>
     </entry>
   </component>
