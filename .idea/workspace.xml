@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/4-28/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/fs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/server2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/ws/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/ws/mysql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-28/ws/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20180501/笔记.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mysql.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4-28/ws/mysql.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="笔记.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20180501/笔记.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -55,9 +58,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="markdown" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="markdown" />
       </list>
     </option>
   </component>
@@ -121,13 +124,7 @@
             <path>
               <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="4-28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="4-28" type="462c0819:PsiDirectoryNode" />
-              <item name="ws" type="462c0819:PsiDirectoryNode" />
+              <item name="20180501" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,25 +194,35 @@
       <workItem from="1524673863745" duration="283000" />
       <workItem from="1524674160533" duration="1071000" />
       <workItem from="1524812547236" duration="32000" />
-      <workItem from="1524812844516" duration="13797000" />
+      <workItem from="1524812844516" duration="14155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17323000" />
+    <option name="totallyTimeSpent" value="17681000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1973126" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329602" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,7 +232,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,6 +398,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180501/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
