@@ -113,12 +113,10 @@ wsServer.on('connection', sock=>{
 
   //离线
   sock.on('disconnect', function (){
-    console.log(cur_userID);
     db.query(`UPDATE user_table SET online=0 WHERE ID=${cur_userID}`, err=>{
       if(err){
         console.log('数据库有错', err);
       }
-      sock.emit('msg', cur_username, '离线');
       cur_username='';
       cur_userID=0;
 

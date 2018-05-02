@@ -2,13 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/20180501/node/libs/regs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180501/node/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180501/node/www/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180501/node/www/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180501/node/www/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20180501/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/20180501/笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20180501/node/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/20180501/node/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/base64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/data/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/data/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/jQuery发head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/my_seajs/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/my_seajs/mod1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/my_seajs/mod2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/my_seajs/mod3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/my_seajs/my_sea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/判断几个奇怪的东西.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/笔记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/自己写个promise.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/自己写个promise2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-12/装饰者模式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/libs/regs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/server2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/www/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/www/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-15/www/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/an_ju_ke.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/an_ju_ke2_with_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/create_uuid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/libs/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/routers/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/routers/www.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/serct/cookie_key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/serct/sess_key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/server2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/template/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/template/login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/upload/14ecab392308c756f241f7fc73384c08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/upload/2d28686bc2fef6f208c3a3790a86aac3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/upload/7154bd833fae5a743683c096e8f482f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/upload/b30f3949195a7ca057fc9063f30e3288" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/upload/e682407dd8bca4ed867c28c60d9f1919" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/js/form_datas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/www/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/下节课讲什么.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程笔记/node/笔记.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/20180501/node/www/2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
-              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -34,11 +92,8 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20180501/node/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
-              <folding>
-                <element signature="e#1542#2462#0" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -47,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/20180501/node/libs/regs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -113,9 +168,9 @@
     <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="617" />
+    <option name="x" value="698" />
     <option name="y" value="23" />
-    <option name="width" value="823" />
+    <option name="width" value="742" />
     <option name="height" value="819" />
   </component>
   <component name="ProjectView">
@@ -130,17 +185,6 @@
             <path>
               <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="20180501" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="20180501" type="462c0819:PsiDirectoryNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +256,12 @@
       <workItem from="1524674160533" duration="1071000" />
       <workItem from="1524812547236" duration="32000" />
       <workItem from="1524812844516" duration="15810000" />
-      <workItem from="1525176685952" duration="4278000" />
+      <workItem from="1525176685952" duration="9430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23614000" />
+    <option name="totallyTimeSpent" value="28766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,12 +274,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1973126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3493635" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32952926" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -448,24 +491,21 @@
     <entry file="file://$PROJECT_DIR$/20180501/node/libs/regs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20180501/node/www/2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20180501/node/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
-          <folding>
-            <element signature="e#1542#2462#0" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
         </state>
       </provider>
     </entry>

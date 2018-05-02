@@ -1,4 +1,0 @@
-AuthName "Basic Auth Dir"
-AuthType Basic
-AuthUserFile c:/wamp/users.txt
-require valid-user
