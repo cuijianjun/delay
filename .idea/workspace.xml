@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/20180502/定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20180508/canvas1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/node/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/node/server2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/node/server3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/ajax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/ajax2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/ajax3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/jsonp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/jsonp2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/jsonp3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/jsonp配自己的接口.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/www/上传.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课程笔记/2017-11-17/笔记.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,11 +17,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="定位.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="定位.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180502/定位.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="150">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="拖拽读取文件.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/拖拽读取文件.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="canvas6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20180508/canvas1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-754" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1301" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="拖拽文件.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-20/拖拽文件.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -56,6 +87,9 @@
     <findStrings>
       <find>20171113</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/课程笔记</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,6 +122,8 @@
         <option value="$PROJECT_DIR$/20180501/node/www/2.html" />
         <option value="$PROJECT_DIR$/20180501/node/server.js" />
         <option value="$PROJECT_DIR$/20180502/定位.html" />
+        <option value="$PROJECT_DIR$/课程笔记/2017-11-22/canvas6.html" />
+        <option value="$PROJECT_DIR$/20180508/canvas1.html" />
       </list>
     </option>
   </component>
@@ -101,11 +137,12 @@
     <handled-path value="$PROJECT_DIR$/20180501/node/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-11/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
+    <handled-path value="$PROJECT_DIR$/课程笔记/2017-11-8/node/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="698" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="663" />
     <option name="y" value="23" />
-    <option name="width" value="742" />
+    <option name="width" value="777" />
     <option name="height" value="819" />
   </component>
   <component name="ProjectView">
@@ -124,7 +161,18 @@
             <path>
               <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="20180502" type="462c0819:PsiDirectoryNode" />
+              <item name="20180508" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
+              <item name="课程笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
+              <item name="课程笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-11-22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,11 +245,15 @@
       <workItem from="1524812547236" duration="32000" />
       <workItem from="1524812844516" duration="15810000" />
       <workItem from="1525176685952" duration="10584000" />
+      <workItem from="1525307616474" duration="243000" />
+      <workItem from="1525787283707" duration="499000" />
+      <workItem from="1525788083160" duration="6000" />
+      <workItem from="1525788235358" duration="2473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29920000" />
+    <option name="totallyTimeSpent" value="33141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,10 +265,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="23" width="742" height="819" extended-state="1" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18104668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32952926" />
@@ -227,34 +279,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.3299712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.3299712" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329602" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32952926" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -263,6 +295,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/20180502/定位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-20/拖拽文件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180502/定位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-20/拖拽文件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4-28/ws/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -446,9 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20180501/node/www/1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/20180501/node/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -470,11 +527,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-20/拖拽文件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20180502/定位.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        <state relative-caret-position="150">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/拖拽读取文件.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180508/canvas1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1301" />
       </provider>
     </entry>
   </component>
