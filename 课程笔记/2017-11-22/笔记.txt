@@ -73,6 +73,7 @@ moveTo/lineTo
 .stroke()
 .strokeStyle
 
+
 .fill()
 .fillStyle
 

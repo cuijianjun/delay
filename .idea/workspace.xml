@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/20180508/canvas1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,10 +53,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1301" />
+            <state relative-caret-position="-1581" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-61" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -163,17 +176,6 @@
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
               <item name="20180508" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="课程笔记" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="课程笔记" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-11-22" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -248,12 +250,12 @@
       <workItem from="1525307616474" duration="243000" />
       <workItem from="1525787283707" duration="499000" />
       <workItem from="1525788083160" duration="6000" />
-      <workItem from="1525788235358" duration="2473000" />
+      <workItem from="1525788235358" duration="2763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33141000" />
+    <option name="totallyTimeSpent" value="33431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,13 +361,6 @@
     <entry file="file://$PROJECT_DIR$/面向对象.html" />
     <entry file="file://$PROJECT_DIR$/笔记.md" />
     <entry file="file://$PROJECT_DIR$/面向对象.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-11/表单.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -565,7 +560,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1301" />
+        <state relative-caret-position="-1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
   </component>
