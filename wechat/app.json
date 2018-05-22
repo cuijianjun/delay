@@ -2,7 +2,9 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/message/index"
+    "pages/message/index",
+    "pages/friends/index",
+    "pages/discovery/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -21,13 +23,13 @@
         "selectedIconPath":"assets/images/message_active.png"
       },
       {
-        "pagePath": "pages/message/index",
+        "pagePath": "pages/friends/index",
         "text": "通讯录",
         "iconPath": "assets/images/friends_normal.png",
         "selectedIconPath": "assets/images/friends_active.png"
       },
       {
-        "pagePath": "pages/message/index",
+        "pagePath": "pages/discovery/index",
         "text": "发现",
         "iconPath": "assets/images/discovery_normal.png",
         "selectedIconPath": "assets/images/discovery_active.png"

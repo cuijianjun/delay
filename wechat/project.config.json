@@ -33,12 +33,24 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 2,
 			"list": [
 				{
 					"id": -1,
 					"name": "message",
-					"pathName": "pages/message/index"
+					"pathName": "pages/message/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "friends",
+					"pathName": "pages/friends/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "discovery",
+					"pathName": "pages/discovery/index"
 				}
 			]
 		}
