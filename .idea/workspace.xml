@@ -53,10 +53,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1581" />
+            <state relative-caret-position="294">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -67,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -113,7 +115,6 @@
         <option value="$PROJECT_DIR$/参数展开.html" />
         <option value="$PROJECT_DIR$/笔记.md" />
         <option value="$PROJECT_DIR$/面向对象.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/4-11/面向对象.html" />
         <option value="$PROJECT_DIR$/4-11/表单.html" />
         <option value="$PROJECT_DIR$/4-11/XMLHttpRequest.html" />
@@ -137,6 +138,8 @@
         <option value="$PROJECT_DIR$/20180502/定位.html" />
         <option value="$PROJECT_DIR$/课程笔记/2017-11-22/canvas6.html" />
         <option value="$PROJECT_DIR$/20180508/canvas1.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt" />
       </list>
     </option>
   </component>
@@ -250,12 +253,12 @@
       <workItem from="1525307616474" duration="243000" />
       <workItem from="1525787283707" duration="499000" />
       <workItem from="1525788083160" duration="6000" />
-      <workItem from="1525788235358" duration="2763000" />
+      <workItem from="1525788235358" duration="2986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33431000" />
+    <option name="totallyTimeSpent" value="33654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,7 +273,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32952926" />
@@ -558,11 +561,6 @@
         <state relative-caret-position="-754" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1581" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61" />
@@ -570,8 +568,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
