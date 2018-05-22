@@ -1,2 +1,10 @@
-<!--pages/message/index.wxml-->
-<text>pages/message/index.wxml</text>
+<view>
+  <view wx:for="{{items}}" wx:key="{{index}}" class='message-item'>
+    <image class='avatar' src='/assets/avatars/{{item.avatar}}'></image>
+    <view class='message-content'>
+      <view class='name'>{{item.name}}</view>
+      <view class='recent'>{{item.recent}}</view>
+    </view>
+    <view class='time'>{{item.time}}</view>
+  </view>
+</view>
