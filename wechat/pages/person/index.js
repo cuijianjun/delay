@@ -1,23 +1,21 @@
-// pages/discovery/index.js
+// pages/person/index.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    items: [
+    menus: [
       { header: true },
-      { icon: 'community.png', name: '朋友圈', unread: 1, community: { avatar: 'avatar_0.jpg' } },
+      { icon: 'money_bag.png', name: '钱包' },
+      { name: '', header: true },
+      { icon: 'like.png', name: '收藏' },
       { header: true },
-      { icon: 'scan_code.png', name: '扫一扫' },
+      { icon: 'photos.png', name: '相册' },
+      { icon: 'card_bag.png', name: '卡包' },
+      { icon: 'smile.png', name: '表情' },
       { header: true },
-      { icon: 'see.png', name: '看一看' },
-      { icon: 'search.png', name: '搜一搜' },
-      { header: true },
-      { icon: 'shopping.png', name: '购物' },
-      { icon: 'game.png', name: '游戏' },
-      { header: true },
-      { icon: 'mini_program.png', name: '小程序' },
+      { icon: 'menu_settings.png', name: '设置' },
     ]
   },
 
@@ -27,7 +25,14 @@ Page({
   onLoad: function (options) {
   
   },
-
+  bindNavigation:function(e){
+    console.log(e.currentTarget.dataset.index)
+    if (e.currentTarget.dataset.index && e.currentTarget.dataset.index === 1){
+      wx.navigateTo({
+        url: '/pages/money/index',
+      })
+    }
+  },
   /**
    * 生命周期函数--监听页面初次渲染完成
    */

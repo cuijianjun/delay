@@ -1,24 +1,11 @@
-// pages/discovery/index.js
+// pages/money/index.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    items: [
-      { header: true },
-      { icon: 'community.png', name: '朋友圈', unread: 1, community: { avatar: 'avatar_0.jpg' } },
-      { header: true },
-      { icon: 'scan_code.png', name: '扫一扫' },
-      { header: true },
-      { icon: 'see.png', name: '看一看' },
-      { icon: 'search.png', name: '搜一搜' },
-      { header: true },
-      { icon: 'shopping.png', name: '购物' },
-      { icon: 'game.png', name: '游戏' },
-      { header: true },
-      { icon: 'mini_program.png', name: '小程序' },
-    ]
+  
   },
 
   /**

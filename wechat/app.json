@@ -4,7 +4,9 @@
     "pages/logs/logs",
     "pages/message/index",
     "pages/friends/index",
-    "pages/discovery/index"
+    "pages/discovery/index",
+    "pages/person/index",
+    "pages/money/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -35,7 +37,7 @@
         "selectedIconPath": "assets/images/discovery_active.png"
       },
       {
-        "pagePath": "pages/message/index",
+        "pagePath": "pages/person/index",
         "text": "个人",
         "iconPath": "assets/images/person_normal.png",
         "selectedIconPath": "assets/images/person_active.png"
