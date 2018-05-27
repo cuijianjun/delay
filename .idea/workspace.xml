@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Regexper(5-25)/reg.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -96,7 +95,7 @@
     <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
     <handled-path value="$PROJECT_DIR$/课程笔记/2017-11-8/node/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="663" />
     <option name="y" value="23" />
     <option name="width" value="777" />
@@ -195,12 +194,12 @@
       <workItem from="1525787283707" duration="499000" />
       <workItem from="1525788083160" duration="6000" />
       <workItem from="1525788235358" duration="2986000" />
-      <workItem from="1527232271304" duration="2472000" />
+      <workItem from="1527232271304" duration="2653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36126000" />
+    <option name="totallyTimeSpent" value="36307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,7 +211,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
