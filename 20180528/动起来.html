@@ -13,15 +13,20 @@
     }
   </style>
 </head>
+<body>
+<canvas id="c1" width="800" height="600"></canvas>
+</body>
 <script>
-  window.onload = function(){
-    let oC = document.getElementById("c1");
+  window.onload = function () {
+    let oC = document.getElementById("c1")
     let gd = oC.getContext("2d");
+
+    let l = 50;
+    setInterval(function () {
+      gd.clearRect(0,0,oC.width,oC.height)
+      l+=5;
+      gd.strokeRect(l,50,100,70)
+    },100)
   }
 </script>
-<body>
-  <canvas id="c1" width="800" height="600">
-    您的浏览器并不支持canvas，请下载最新的浏览器
-  </canvas>
-</body>
 </html>

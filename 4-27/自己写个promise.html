@@ -23,7 +23,8 @@
           _this.__queue.forEach(json=>{
             json.fn1(...arg);
           });
-        }, function (...arg){
+        },
+          function (...arg){
           _this.__erro_res=arg;
 
           _this.status='error';
