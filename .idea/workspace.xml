@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/20180508/canvas--柱状图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180508/canvas0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180508/canvas10-柱状图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180508/canvas2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180508/canvas4--矩形.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180508/canvas5--弧.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20180508/canvas--柱状图2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/20180508/canvas--柱状图.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -50,11 +44,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas10-柱状图.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="canvas10-柱状图.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180508/canvas10-柱状图.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1118" />
+            <state relative-caret-position="384">
+              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+            </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas--柱状图2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20180508/canvas--柱状图2.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="false">
@@ -245,12 +246,12 @@
       <workItem from="1525787283707" duration="499000" />
       <workItem from="1525788083160" duration="6000" />
       <workItem from="1525788235358" duration="2986000" />
-      <workItem from="1527232271304" duration="6372000" />
+      <workItem from="1527232271304" duration="6590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40026000" />
+    <option name="totallyTimeSpent" value="40244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,6 +264,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104668" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
@@ -291,13 +293,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4-28/ws/mysql.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20180501/笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -577,7 +572,7 @@
     <entry file="file://$PROJECT_DIR$/20180508/canvas--柱状图.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -596,8 +591,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180508/canvas10-柱状图.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1118" />
+        <state relative-caret-position="384">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180508/canvas--柱状图2.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
