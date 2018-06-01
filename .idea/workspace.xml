@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/5-29/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-29/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-29/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-29/上传进度.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="上传进度.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-29/上传进度.html">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -104,6 +100,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/5-29/1.html" />
         <option value="$PROJECT_DIR$/5-29/上传进度.html" />
+        <option value="$PROJECT_DIR$/课程笔记/2017-11-26/node/server.js" />
       </list>
     </option>
   </component>
@@ -117,6 +114,7 @@
     <handled-path value="$PROJECT_DIR$/20180501/node/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-11/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
+    <handled-path value="$PROJECT_DIR$/课程笔记/2017-11-26/node/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="663" />
@@ -219,7 +217,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52439000" />
+    <option name="totallyTimeSpent" value="55516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,7 +231,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24115983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15417255" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.329602" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -241,7 +239,7 @@
       <window_info anchor="bottom" id="Run" order="3" weight="0.329602" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329602" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329602" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,9 +269,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-22/canvas2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-20/拖拽文件.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="678">
@@ -286,16 +281,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Regexper(5-25)/WX20180525-155135.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Regexper(5-25)/11527234311_.pic_hd.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Regexper(5-25)/reg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20180508/canvas1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -562,20 +547,6 @@
     <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/www/4-上传进度.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5-29/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -585,8 +556,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5-29/上传进度.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="950">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regexper(5-25)/11527234311_.pic_hd.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regexper(5-25)/reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/www/拖拽上传.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/www/4-上传进度.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程笔记/2017-11-26/node/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
