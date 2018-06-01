@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script src="tween.js"></script>
+    <script>
+        
+        // 假设初始值为 10
+        // 假设结束值为 100
+        // 假设执行时间 12s
+
+        // 1 移动距离
+        // 2 移动距离
+        // 3 移动距离
+        // 。。。
+
+        // var d = Tween.Quad.easeIn(1, 10, 90, 12);
+
+        // console.log(d)
+
+        // d = Tween.Quad.easeIn(2, 10, 90, 12);
+
+        // console.log(d)
+
+        // d = Tween.Quad.easeIn(3, 10, 90, 12);
+
+        // console.log(d)
+
+        // d = Tween.Quad.easeIn(4, 10, 90, 12);
+
+        // console.log(d)
+
+        // d = Tween.Quad.easeIn(12, 10, 90, 12);
+
+        // console.log(d)
+
+        var t = 1;
+        function step() {
+            t++;
+            var d = Tween.Quad.easeIn(t, 10, 90, 12);
+
+            console.log(d)
+
+            if(t < 12) {
+                requestAnimationFrame(step);
+            }
+        }
+
+        step();
+    </script>
+</body>
+</html>

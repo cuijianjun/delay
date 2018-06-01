@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <!-- 只需要使用 javascript 动态的修改 css 的值 -->
+    <!-- 不是所有的 css 都可以实现动画的切换 -->
+    <!-- 一般是那些 css 属性值为数字类的 -->
+    <div class="box"></div>
+    
+    <script src="./tween.js"></script>
+    <script>
+        var box = document.querySelector('.box');
+
+        box.addEventListener('click', function () {
+            var t = 1;
+            function step() {
+                
+                t++;
+                var d = Tween.Bounce.easeOut(t, 200, 400, 40);
+
+                // console.log(d);
+
+                box.style.width = d + 'px';
+
+                if(t < 40) {
+                    requestAnimationFrame(step);
+                }
+            }
+            
+            step();
+        })
+    </script>
+</body>
+</html>
