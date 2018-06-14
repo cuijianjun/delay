@@ -18,6 +18,6 @@ server.on('request',(req,res) => {
 });
 
 // 3:监听端口,设置IP
-server.listen(8888,'192.168.89.130',()=>{
+server.listen(8888,'0.0.0.0',()=>{
   console.log('服务器启动在8888端口,IP::192.168.89.130');
 });
