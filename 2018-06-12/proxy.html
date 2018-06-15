@@ -11,10 +11,10 @@
   document.querySelector('#btn').onclick = function () {
     // 发请求
     var xhr = new XMLHttpRequest();
-    xhr.open('get','/proxy');//不跨域
+    xhr.open('get','/proxy'); // 这一次请求不跨域 8889端口
     xhr.send();
     xhr.onreadystatechange = function () {
-      if(xhr.readyState === 4 && xhr.status === 200){
+      if(xhr.readyState === 4 && xhr.status === 200) {
         alert(xhr.responseText);
       }
     }
