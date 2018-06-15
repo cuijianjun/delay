@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+服务器是来自于node服务器8889端口 =>  访问其他服务器 => www.baidu.com
+<button id="btn">点我发本服务器的node代理</button>
+<script type="text/javascript">
+  // 点击事件
+  document.querySelector('#btn').onclick = function () {
+    // 发请求
+    var xhr = new XMLHttpRequest();
+    xhr.open('get','/proxy');//不跨域
+    xhr.send();
+    xhr.onreadystatechange = function () {
+      if(xhr.readyState === 4 && xhr.status === 200){
+        alert(xhr.responseText);
+      }
+    }
+  }
+
+
+</script>
+</body>
+</html>
