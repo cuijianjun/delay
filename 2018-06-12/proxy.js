@@ -14,6 +14,7 @@ const fs = require('fs');
 const url = require('url');
 server.on('request',(req,res)=>{
   console.log("111");
+  console.log(req.url);
   if (req.url.startsWith('/proxy')) {
 
     // 请求别人的数据返回给你
