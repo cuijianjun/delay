@@ -1,0 +1,64 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+
+  <form id="form">
+      用户:<input type="text" id="nickname">
+      <button>连接</button>
+  </form>
+
+  <button id="btn">发消息给rose</button>
+   <button id="btn2">发消息给所有人</button>
+
+  <script src="/socket.io.js"></script>
+  <script type="text/javascript">
+      const socket = io('http://localhost:8888',{
+        autoConnect:false
+      });
+      socket.on('connect', function(){
+        console.log('连接上了');
+      });
+
+      // 先登录
+      document.querySelector('#form').onsubmit = function (e) {
+          var nickname = document.getElementById('nickname').value;
+          // 禁止提交事件
+          e.preventDefault();
+          // 建立连接,并把名字给服务器
+          socket.open(); 
+          // 发送当前的用户名
+          socket.emit('login',{
+            nickname:nickname
+          });
+      }
+
+
+      // 发消息给rose
+      document.getElementById('btn').onclick = function () {
+          socket.emit('towho',{
+            to:'rose',
+            content:'我爱你'
+          });
+      }
+      //  广播
+      document.getElementById('btn2').onclick = function () {
+          socket.emit('towho',{
+            content:'我爱大家'
+          });
+      }
+
+      // 处理客户端私聊或者广播的message
+      socket.on('message',function(data) {
+          console.log(data);
+      });
+
+
+
+
+  </script>
+
+</body>
+</html>
