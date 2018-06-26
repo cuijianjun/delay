@@ -1,5 +1,3 @@
-
-
 const Koa = require('koa');
 const static = require('koa-static');
 const Router = require('koa-router');
@@ -17,10 +15,10 @@ let app = new Koa();
 // socket.io 开始
 const IO = require( 'koa-socket' );
 const io = new IO();
- 
+
 // 让socket.io监管app
 io.attach( app );
- 
+
 io.on('connection', sock => {
   console.log('客户端有人进来了');
 });
@@ -60,7 +58,7 @@ render(app, {
   // debug false  代表开发环境 ,实时读文件更新静态的数据,不压缩...
   debug: process.env.NODE_ENV !== 'production'
 });
- 
+
 
 
 
@@ -83,7 +81,7 @@ router.get('/',ctx=>{
   // 响应新的页面
   ctx.render('index',{
       msgs
-  }); 
+  });
 })
 
 
