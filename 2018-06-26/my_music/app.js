@@ -3,6 +3,9 @@ const Koa = require('koa')
 const path = require('path')
 let app = new Koa();
 
+// 引入配置对象
+const config = require('./config');
+
 const render = require('koa-art-template');
 // 处理请求体数据
 var bodyParser = require('koa-bodyparser');
@@ -18,6 +21,8 @@ render(app,{
 
 
 const router = require("./routes/user_router")
+// 引入音乐router
+const musicRouter = require('./routes/music_router');
 //重写url,改掉/public
 app.use(async (ctx,next) =>{
   //判断 如果当前的请求以/public开头的。重写其url在放行
@@ -28,19 +33,71 @@ app.use(async (ctx,next) =>{
   // else不是/public开头的，统一放行
   await next()
 })
-//处理静态资源
-app.use(require('koa-static')('./public'));
+// 处理静态资源
+app.use(require('koa-static')('./public') );
 
 // 处理请求体数据 开始
-app.use(bodyParser());  // 给ctx.request.body 挂数据
+// app.use(bodyParser());  // 给ctx.request.body 挂数据
 // 处理请求体数据 结束
+
+// 处理文字和文件的请求体数据
+const formidable = require('koa-formidable')
+app.use(formidable({
+  uploadDir:config.uploadDir, //上传目录
+  keepExtensions:true // 保持原有后缀名
+}));
+
+//处理session
+const session = require('koa-session');
+app.keys = ['shhhhh'];//数字签名的加密依赖
+//这个是因为你需要保证传递的cookie数据不被串改
+//多发一个cookie（就是另一个cookie的数字签名）
+
+//配置session的store
+let store = {  //把session数据作为内存处理，当然，还有配置数据库存储的方式
+  storage:{},
+  set:function (key,sess) {
+    this.storage[key] = sess;
+  },
+  get:function (key) {
+    return this.storage[key]
+  },
+  destroy:function (key) {
+    delete this.storage[key]
+  }
+}
+app.use(session({store:store},app))
+
+// 拦截用户,如果用户没有登录,给与一个简单页面,让用户登录
+app.use( async (ctx,next) => {
+
+  // add-music   edit-music delete-music
+  // /login   /register
+  let regex = /^\/user/; // 判断是否是登录和注册
+  let isNonCheck = regex.test(ctx.request.url);
+
+  if (isNonCheck)return await next(); // 是登录和注册,直接放行
+
+  // 如果用户没有登录 !ctx.session.user
+  if (!ctx.session.user) {
+    return ctx.body = `<div>
+          <a href="/login">没有登录,去登录</a>
+    </div>`;
+  }
+  // 如果登录放行
+  await next();
+});
 
 //将路由对象放入到中间件中
 app.use(router.routes());
+app.use(musicRouter.routes() );
+
 //状态码增强 404 => 405 + 501
 //405 ：url 存在请求方式的错误
 //501： copy之类de 不常见的请求方式，服务器没有实现对其处理的
-app.use(router.allowedMethods())
+app.use(router.allowedMethods());
+app.use(musicRouter.allowedMethods() );
+
 
 //开启服务器
 app.listen(8888,()=>{

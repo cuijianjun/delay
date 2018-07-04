@@ -1,4 +1,7 @@
+const path = require('path');
 module.exports = {
+  uploadDir:path.join(__dirname,'public/files'),
+
   db:{
     // mysql默认端口3306
     // oracle默认端口1521

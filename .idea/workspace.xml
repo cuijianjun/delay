@@ -2,286 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/01_long_pull.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/02_long_conn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/03_ws.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/07_websocket/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/models/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/Laravel-Four-Revised-Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/Laravel-Four-Revised-Slant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/img.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/qq-login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/img/weibo-login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/img/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/configBridge.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/.csscomb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/.csslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/glyphicons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/background-variant.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/border-radius.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/center-block.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/clearfix.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/gradients.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/hide-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/image.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/opacity.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/reset-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/resize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/size.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/table-row.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/responsive-embed.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/less/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/nuget/MyGet.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/nuget/bootstrap.less.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/package.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/bootstrap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/AUTHORS.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/dist/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/load.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/parseJSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/parseXML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/var/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/var/nonce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/var/rquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/ajax/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes/attr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes/prop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/attributes/val.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/DOMEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/access.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/parseHTML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/core/var/rsingleTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/addGetHookIf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/adjustCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/curCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/defaultDisplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/showHide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/cssExpand.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/getStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/isHidden.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/rmargin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/css/var/swap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/Data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/accepts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/var/acceptData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/var/dataPriv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/data/var/dataUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/deferred/exceptionHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/deprecated.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/dimensions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/effects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/effects/Tween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/effects/animatedSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/effects/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event/alias.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event/focusin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/event/trigger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/exports/amd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/exports/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/intro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/buildFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/createSafeFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/getAll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/var/nodeNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/var/rleadingWhitespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/manipulation/wrapMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/offset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/outro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/queue/delay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/selector-native.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/selector-sizzle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/selector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/serialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/traversing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/traversing/findFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/traversing/var/dir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/traversing/var/siblings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/class2type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/concat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/deletedIds.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/documentElement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/hasOwn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/indexOf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/pnum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/rcssNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/rnotwhite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/var/toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/public/vender/jquery/src/wrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/layout/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/particles/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/particles/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/particles/linker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/controllers/music_controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018-06-26/my_music/routes/music_router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-06-26/my_music/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018-06-26/my_music/views/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -295,11 +25,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="-544">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -307,73 +61,35 @@
       <file leaf-file-name="user_router.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="60" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user_controller.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-              <folding>
-                <element signature="e#1378#1384#0" expanded="true" />
-                <element signature="e#1384#1390#0" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#1708#1714#0" expanded="true" />
-                <element signature="e#1714#1720#0" expanded="true" />
-                <element signature="e#1761#1767#0" expanded="true" />
-                <element signature="e#1767#1773#0" expanded="true" />
-                <element signature="e#1774#1780#0" expanded="true" />
-                <element signature="e#1780#1786#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/layout/main.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/header.html">
+      <file leaf-file-name="music_controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/controllers/music_controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="128">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/footer.html">
+      <file leaf-file-name="music_router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/routes/music_router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="200">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linker.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/linker.html">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+            <state relative-caret-position="50">
+              <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -404,9 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20180528/note.txt" />
-        <option value="$PROJECT_DIR$/20180528/动起来.html" />
-        <option value="$PROJECT_DIR$/20180528/图形-点击.html" />
         <option value="$PROJECT_DIR$/课程笔记/2017-11-24/canvas的变换3.html" />
         <option value="$PROJECT_DIR$/20180528/canvas变换.html" />
         <option value="$PROJECT_DIR$/20180528/canvas图片.html" />
@@ -443,18 +156,21 @@
         <option value="$PROJECT_DIR$/2018-06-25/06_chatroom_plus/views/index.html" />
         <option value="$PROJECT_DIR$/2018-06-25/05_chatroom_io/app.js" />
         <option value="$PROJECT_DIR$/2018-06-25/06_chatroom_plus/app.js" />
-        <option value="$PROJECT_DIR$/2018-06-26/my_music/package.json" />
-        <option value="$PROJECT_DIR$/2018-06-26/my_music/views/index.html" />
-        <option value="$PROJECT_DIR$/2018-06-26/my_music/config.js" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/models/db.js" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/views/login.html" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/views/layout/main.html" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/views/particles/footer.html" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/views/particles/header.html" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/views/particles/linker.html" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/package.json" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js" />
-        <option value="$PROJECT_DIR$/2018-06-26/my_music/app.js" />
         <option value="$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/controllers/music_controller.js" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/views/index.html" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/temp.js" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/routes/music_router.js" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/config.js" />
+        <option value="$PROJECT_DIR$/2018-06-26/my_music/app.js" />
       </list>
     </option>
   </component>
@@ -493,7 +209,7 @@
     <dismissed value="$PROJECT_DIR$/2018-06-25/package.json" />
     <dismissed value="$PROJECT_DIR$/2018-06-26/my_music/package.json" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="815" />
@@ -526,14 +242,7 @@
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
               <item name="2018-06-26" type="462c0819:PsiDirectoryNode" />
               <item name="my_music" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="2018-06-26" type="462c0819:PsiDirectoryNode" />
-              <item name="my_music" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -618,12 +327,12 @@
       <workItem from="1528854894173" duration="13750000" />
       <workItem from="1529572332004" duration="8834000" />
       <workItem from="1529886962178" duration="12454000" />
-      <workItem from="1530010673773" duration="8844000" />
+      <workItem from="1530010673773" duration="14770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106651000" />
+    <option name="totallyTimeSpent" value="112577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -635,8 +344,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18953323" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.329602" />
@@ -645,7 +353,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32089552" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39676616" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -666,25 +374,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20180601/jquery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180601/myweb/js/waterfall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180601/jquery/index-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
-          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20180601/myweb/waterfall.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5072" />
@@ -908,20 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/models/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -929,10 +604,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/config.js">
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/linker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/layout/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -954,52 +650,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/footer.html">
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="575">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/header.html">
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/temp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="400">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/particles/linker.html">
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/views/layout/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/routes/user_router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="60" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="60" />
+        <state relative-caret-position="300">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/controllers/user_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="794">
+          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/controllers/music_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/routes/music_router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-06-26/my_music/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

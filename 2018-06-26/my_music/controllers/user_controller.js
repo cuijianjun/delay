@@ -45,3 +45,28 @@ exports.doRegiser = async ctx => {
   // 4:响应结果
   ctx.body = { code:'001',msg:'注册成功'};
 }
+
+exports.doLogin =async ctx =>{
+  //1.接收请求体
+  let {username,password,remember_me} = ctx.request.body;
+  //查询数据库数据是否存在，用户名作为条件
+  let users = await  user_db.q('select * from users where username = ?',[username]);
+
+  //判断是否查询到用户
+  if(users.length === 0){
+    //没有用户不能登录
+    return ctx.body = {code :"002",msg: '用户名或者密码不正确'}
+  }
+  //判断密码是否一致
+  let user = users[0]
+  if(user.password != password){
+    return ctx.body = {code:'002',msg:'用户名或者密码不正确'}
+  }
+  //用户存在且密码一致
+  //登录操作
+  ctx.session.user = user;//记住这个客户端的登录信息，下次访问也能有该信息
+  ctx.body = {code:'001',msg:'登录成功'}
+}
+exports.test = ctx =>{
+  ctx.body = ctx.session.user;
+}

@@ -9,6 +9,8 @@ router.get("/register",ctx=>{
 // .post('/check-username',(ctx)=>{ /*各种操作包括db*/ })
   .post('/check-username', userController.checkUsername ) // 检查用户名
   .post('/do-register',userController.doRegiser )
+  .post('/do-login',userController.doLogin)//登录
+  .get('/user/test-session',userController.test)
 
 //路由规则   ---- test
 // router.get('/',async ctx =>{
