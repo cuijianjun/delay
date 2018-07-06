@@ -145,7 +145,6 @@
     <handled-path value="$PROJECT_DIR$/20180501/node/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-11/node_modules" />
     <handled-path value="$PROJECT_DIR$/4-28/ws/node_modules" />
-    <handled-path value="$PROJECT_DIR$/课程笔记/2017-11-26/node/node_modules" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/2018-06-15/koa_test/package.json" />
@@ -252,12 +251,12 @@
       <workItem from="1528854894173" duration="13750000" />
       <workItem from="1529572332004" duration="8834000" />
       <workItem from="1529886962178" duration="12454000" />
-      <workItem from="1530010673773" duration="19553000" />
+      <workItem from="1530010673773" duration="19753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117360000" />
+    <option name="totallyTimeSpent" value="117560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,6 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18953323" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.329602" />
