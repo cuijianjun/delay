@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    body{
+      background-color: black;
+      text-align: center;
+    }
+    #c1{
+      background: white;
+    }
+  </style>
+</head>
+<script>
+  window.onload = function(){
+    let oC = document.getElementById("c1");
+    let gd = oC.getContext("2d");
+
+    gd.moveTo(100,100);
+    gd.lineTo(300,300);
+    gd.lineTo(100,300)
+    gd.closePath();//闭合路径   --- 封口
+
+    gd.lineWidth = 10
+    gd.stroke()
+
+  }
+</script>
+<body>
+  <canvas id="c1" width="800" height="600">
+    您的浏览器并不支持canvas，请下载最新的浏览器
+  </canvas>
+</body>
+</html>

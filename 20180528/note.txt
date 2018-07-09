@@ -1,0 +1,23 @@
+1. canvas
+
+let  gd = oc,getContext("2d");
+
+路径：
+gd.beginPath() 清除
+gd.closePath() 闭合
+
+gd.moveTo()/lineTo()
+gd.react() 矩形
+gd.arc(cx,cy,r,startAng,endAng,逆时针)
+
+gd.stroke()
+gd.fill()
+
+非路径
+
+gd.strokeRect() //直接画矩形
+gd.fillRect() //填充画矩形
+
+属性
+gd.strokeStyle()
+gd.fillStyle()

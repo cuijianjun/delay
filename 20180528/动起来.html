@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    body{
+      background-color: black;
+      text-align: center;
+    }
+    #c1{
+      background: white;
+    }
+  </style>
+</head>
+<body>
+<canvas id="c1" width="800" height="600"></canvas>
+</body>
+<script>
+  window.onload = function () {
+    let oC = document.getElementById("c1")
+    let gd = oC.getContext("2d");
+
+    let l = 50;
+    setInterval(function () {
+      gd.clearRect(0,0,oC.width,oC.height)
+      l+=5;
+      gd.strokeRect(l,50,100,70)
+    },100)
+  }
+</script>
+</html>

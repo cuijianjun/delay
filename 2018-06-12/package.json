@@ -1,0 +1,16 @@
+{
+  "name": "2018-06-12",
+  "version": "1.0.0",
+  "main": "path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

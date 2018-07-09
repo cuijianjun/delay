@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  function Box(age) {
+    this.name = ['Lee', 'Jack', 'Hello']
+    this.age = age;
+  }
+  Box.prototype.run = function () {
+    return this.name + this.age;
+  };
+  alert(new Box(22).run());
+</script>
+</body>
+</html>
