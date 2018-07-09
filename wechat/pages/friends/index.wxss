@@ -1,0 +1,73 @@
+.menu-item{
+  display: flex;
+  flex-direction: row;
+  background: #fff;
+  border-bottom:1rpx solid #ececec;
+}
+.icon{
+  width: 48rpx;
+  height: 48rpx;
+  margin: 16rpx;
+}
+.menu-content{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-self: center;
+  padding-left: 24rpx;
+}
+
+.title{
+  font-size: 14px
+}
+
+.friend-item{
+  display: flex;
+  flex-direction: row;
+  background: #fff;
+  border-bottom: 1rpx solid #ececec;
+}
+
+.avatar{
+  width: 64rpx;
+  height:64rpx;
+  margin: 16rpx;
+}
+
+.friend-content{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-self: center;
+  padding-left: 24rpx;
+}
+.name{
+  font-size: 14px;
+}
+.header{
+  height: 36rpx;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  background: #ececec;
+  font-size: 12px;
+  padding-left: 36rpx;
+}
+
+.tip{
+  display: flex;
+  align-content: center;
+  align-self: center;
+  justify-content: center;
+  background: #ff0000;
+  border-radius: 50%;
+  width: 36rpx;
+  height: 36rpx;
+  font-size: 14px;
+  margin-right: 24rpx;
+  color: #fff
+}
