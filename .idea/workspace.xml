@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/bd_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-path.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-transform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-动画5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-圆角矩形.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-椭圆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-线的样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael-虚线.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/raphael/raphael1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-path-圆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-path-圆弧.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-path-画个饼.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-path.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-地铁图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg-饼图添加事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg圆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg形状.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/svg椭圆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20180706/svg/笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d84b29d-51d2-4c6b-bb80-4f0f4b336444" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,98 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="raphael-椭圆.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-椭圆.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-线的样式.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-线的样式.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-虚线.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-虚线.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-transform.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-transform.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raphael-动画5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-动画5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -260,12 +139,6 @@
               <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
               <item name="20180706" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="kaike-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaike-test" type="462c0819:PsiDirectoryNode" />
-              <item name="20180706" type="462c0819:PsiDirectoryNode" />
-              <item name="raphael" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -352,12 +225,12 @@
       <workItem from="1529572332004" duration="8834000" />
       <workItem from="1529886962178" duration="12454000" />
       <workItem from="1530010673773" duration="20130000" />
-      <workItem from="1530844073011" duration="14448000" />
+      <workItem from="1530844073011" duration="15089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132385000" />
+    <option name="totallyTimeSpent" value="133026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,7 +243,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1407923" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.329602" />
@@ -380,7 +252,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.329602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34577113" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34552845" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -563,6 +435,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-虚线.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-线的样式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-椭圆.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-transform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -609,27 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-椭圆.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-线的样式.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180706/raphael/raphael-虚线.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
